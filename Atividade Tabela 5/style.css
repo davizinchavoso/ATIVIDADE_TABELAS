@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:20px
+}
+table{
+width: 100%;
+max-width: 700%;
+border: solid;
+border-collapse: collapse;
+border-radius: 20px 20px 20px 20px;
+padding: 2px;
+overflow: hidden;
+
+}
+th,td{
+    padding: 12px 15px;
+    text-align: left;
+    border: 1px solid;
+}
+tbody th{
+    background-color: whitesmoke;
+    color: black;
+}
+.a{
+    background-color: whitesmoke;
+}
