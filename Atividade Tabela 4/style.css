@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
+table{
+    width: 100%;
+    max-width: 700%;
+    border: hidden;
+    border-collapse: collapse;
+    padding: 2px;
+    overflow: hidden;
+}
+th,td{
+    padding: 12px 15px;
+    text-align: left;
+   
+    
+}
+tbody th{
+    background-color:rgb(105, 1, 105);
+    color: whitesmoke;
+    height: 2px;
+  
+    
+   
+
+}
+.a{
+    background-color: whitesmoke;
+}
+.b{
+    background-color: beige;
+}
+
+/*background:linear-gradient(to right) começa de uma cor e terminar de outra*/
+
+
+.j{
+    background:linear-gradient(to right,#64008c,#E091FF);
+}
+.g{
+    background:linear-gradient(to right,#64008c,#E091FF);
+}
+.h{
+    background:linear-gradient(to right,#64008c,#E091FF);
+}
