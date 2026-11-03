@@ -1,0 +1,37 @@
+body{
+font-family: arial, sans-serif;
+margin:20px;
+}
+table{
+    width: 100%;
+    max-width: 700%;
+    padding:2px;
+    border:transparent;
+    border-collapse: collapse;
+    overflow: hidden;
+}
+th,td{
+    text-align: center;
+    padding:12px 15px;
+    border: 1px solid;
+    border-color: #e0e0e0;
+    border-bottom-color: #e0e0e0;
+}
+.b{
+    background-color: blue;
+    color: white;
+}
+.a{
+    background-color: whitesmoke;
+    font-weight: bold;
+}
+.c{
+    background-color: whitesmoke;
+    font-weight: bold;
+}
+.p{
+    font-size: 20px;
+}
+.g{
+    font-size: 20px;
+}

@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:20px;
+}
+table{
+    width: 100%;
+    max-width: 700%;
+    padding:2px;
+
+}
+th,td{
+    text-align: left;
+    padding: 12px 15px;
+    border:1px solid;
+}
