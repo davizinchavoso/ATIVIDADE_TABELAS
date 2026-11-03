@@ -1,0 +1,20 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 20px;
+}
+table{
+    width: 700%;
+    max-width: 100%;
+    border:solid;
+    border-collapse: collapse;
+}
+th,td{
+    padding: 12px 15px;
+    text-align: left;
+    border:1px solid;
+}
+tbody th{
+    background-color: whitesmoke;
+    color: black;
+
+}

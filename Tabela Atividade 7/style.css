@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0px;
+}
+table{
+    width: 100%;
+    max-width: 700%;
+    border: solid;
+    border-collapse: collapse;
+    overflow:hidden;
+    padding:2px;
+   }
+   th,td{
+    padding:12px 15px;
+    text-align: left;
+    border:1px solid;
+   }
+   tbody{
+    color:black;
+   }
+   th{
+    color:gray;
+   }
+   a{
+    color:red;
+   }
+   b{
+    color:orange;
+   }
+   c{
+    color:green;
+   }
