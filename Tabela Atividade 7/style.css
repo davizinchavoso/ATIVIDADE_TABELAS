@@ -1,19 +1,22 @@
 body{
     font-family: Arial, sans-serif;
-    margin: 0px;
+    margin: 20px;
 }
 table{
     width: 100%;
     max-width: 700%;
-    border: solid;
+    border: none;
     border-collapse: collapse;
-    overflow:hidden;
     padding:2px;
-   }
+    overflow:hidden;
+    border-bottom: 1px solid #ddd;
+}
+
    th,td{
-    padding:12px 15px;
+    padding: 12px 15px;
     text-align: left;
-    border:1px solid;
+    border-bottom: 1px solid #ddd;
+   
    }
    tbody{
     color:black;
@@ -21,12 +24,16 @@ table{
    th{
     color:gray;
    }
-   a{
+   .a{
     color:red;
+    
+    
    }
-   b{
+   .b{
     color:orange;
    }
-   c{
+   .c{
     color:green;
+    
+   
    }
